@@ -5,6 +5,10 @@ from datetime import datetime, timedelta
 from correo import enviar_correo
 from gestion_directorio import eliminar_directorio
 
+
+
+
+
 # Salida de video
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
 modo_fuera_casa = False
